@@ -1,0 +1,4 @@
+[SPOTIFY_CLIENT]
+ID: abcdefghijklmnopqrstuvwxyz123
+SECRET: abcdefghijklmnopqrstuvwxyz123
+REDIRECT_URI: http://localhost
